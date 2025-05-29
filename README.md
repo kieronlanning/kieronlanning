@@ -30,7 +30,7 @@ A .NET Source Generator that simplifies the implementation of telemetry by gener
 - Generates telemetry code from annotated interfaces.
 - Supports activities, structured logging, and metrics.
 - Facilitates dependency injection and testing.
-- Compatible with .NET Framework 4.7.2+, .NET 8+, and .NET 9.
+- Compatible with .NET Framework 4.7.2+ and .NET 8+.
 
 **Resources:**
 
