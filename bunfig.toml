@@ -1,6 +1,0 @@
-telemetry = false
-
-[run]
-shell = 'bun'
-bun = true
-

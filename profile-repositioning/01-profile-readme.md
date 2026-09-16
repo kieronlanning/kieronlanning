@@ -61,3 +61,9 @@ That combination shapes Purview: practical tools built around problems encounter
 - [My GitHub projects](https://github.com/kieronlanning?tab=repositories)
 - [Purview-Dev website](https://purview.dev/)
 - [LinkedIn](https://www.linkedin.com/in/kieronlanning/)
+
+---
+
+**Deliverable 1 — complete replacement GitHub profile `README.md`.**
+
+This is the same content as the updated `README.md` in this repository. Project names, descriptions, and links were verified against the current public `purview-dev` GitHub organisation and the typed project catalogue at `src/data/projects.yml` in the Purview-Dev site repository. The canonical Purview-Dev production URL is live at `https://purview.dev` (verified 2026-09-16).
